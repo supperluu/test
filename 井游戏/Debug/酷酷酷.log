@@ -1,0 +1,6 @@
+﻿  kkk.cpp
+  ttt.cpp
+C:\Users\supper璐\Desktop\bc\酷酷酷\ttt.cpp(93,6): error C2664: “int isfull(char [][3])”: 无法将参数 1 从“const char [][3]”转换为“char [][3]”
+C:\Users\supper璐\Desktop\bc\酷酷酷\ttt.cpp(93,19): message : 转换丢失限定符
+C:\Users\supper璐\Desktop\bc\酷酷酷\ttt.cpp(65,5): message : 参见“isfull”的声明
+  正在生成代码...
